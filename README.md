@@ -9,3 +9,6 @@ Este texto fue actualizado desde una copia local.
 
 # Prueba de proyecto en unity RV
 Se agrego un proyecto en unity con snapdragon RV
+
+# Actualizacion P2
+Se agregaron funciones para interactuar con objetos y ver mensajes en consola y evitar que se puedan atravesar paredes
